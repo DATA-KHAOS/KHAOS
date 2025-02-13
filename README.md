@@ -4,11 +4,12 @@ Este é o repositório dos projetos de Ciência de Dados do KHAOS.
 
 ## 📂 Lista de Projetos Finalizados
 - **[Titanic](https://github.com/Gui-Sitton/KHAOS/tree/main/Titanic)** - Testando hipóteses e prevendo os sobreviventes do acidente
+- **Bolsa de Valores B3** - Identificando e prevendo padrões nos preços de ações da bolsa de valores brasileira
+- **Reconhecimento de Jogadores de Futebol**
   
 
 ## 🚧 Lista de Projetos em Andamento
 
-- **Bolsa de Valores B3** - Identificando e prevendo padrões nos preços de ações da bolsa de valores brasileira
 - **Digit Recognizer** - Identificar dígitos escritos à mão
 - **House Prices** - Técnicas avançadas de regressão para prever o preço de venda de casas
 
